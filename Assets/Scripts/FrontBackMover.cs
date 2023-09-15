@@ -1,7 +1,6 @@
 using UnityEngine;
 
-public class FrontBackMover
-    : MonoBehaviour
+public class FrontBackMover : MonoBehaviour
 {
     [SerializeField] private float _speed = 5;
     [SerializeField] private float _minDistance;

@@ -1,7 +1,6 @@
 using UnityEngine;
 
-public class SinScaler
-    : MonoBehaviour
+public class Scaler : MonoBehaviour
 {
     [SerializeField] private float _frequency = 1;
     [SerializeField] private float _amplituda = 1;

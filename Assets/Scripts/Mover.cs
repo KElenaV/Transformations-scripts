@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SinMover : MonoBehaviour
+public class Mover : MonoBehaviour
 {
     [SerializeField] private float _speed = 1;
     [SerializeField] private float _distance = 1;
